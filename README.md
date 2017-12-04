@@ -1,4 +1,4 @@
-##to start run this commands
+## to start run this commands
 
 
 $ sudo apt-get update
